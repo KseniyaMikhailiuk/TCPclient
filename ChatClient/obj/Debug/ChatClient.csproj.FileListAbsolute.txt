@@ -1,0 +1,6 @@
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
